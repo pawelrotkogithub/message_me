@@ -25,7 +25,7 @@ gem 'semantic-ui-sass'
 gem 'jquery-rails'
 
 # Use Redis adapter to run Action Cable in production
- gem 'redis', '~> 4.0'
+ # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
  gem 'bcrypt', '~> 3.1.7'
  # below listed gem is used to show table in console
